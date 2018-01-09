@@ -1,32 +1,31 @@
 # What I Want
-I decided to use version control for this file.  This way I can see my tastes
-change over time and allows me to easily update the actual files.
+I decided to use version control for this file.  This way I can see my tastes change over time and allows me to easily update the actual files.
 
 ### Clothes
 ##### Quality Black Boots
 My current black boots are extremely cheap and hurt my feet when I walk. I could potentially buy insoles, but I believe that is a band-aid solution. Would need to go into store
 
-_$250-350_
-
-[Redwing 8165](https://www.infinityshoes.com/red-wing-shoes-classic-round-8165-mens-boot.html)
+[Redwing 8165 (~$275)](https://www.infinityshoes.com/red-wing-shoes-classic-round-8165-mens-boot.html)
 
 ![Redwing black boot][redwing]
 
 ##### L.L. Bean Boots
-_~$150_
-
-[LLBean boot](https://www.llbean.com/llb/shop/31179?feat=Boots-SR2&page=men-s-l-l-bean-boots-8&csp=a)
+[LLBean boot (~$150)](https://www.llbean.com/llb/shop/31179?feat=Boots-SR2&page=men-s-l-l-bean-boots-8&csp=a)
 
 ![bean boot][llbean boot]
 
-### Coffee
+### Kitchen
 ##### Coffee Tumbler
+Currently have one at home awaiting trial. Will update if one at home is bad.
 
+### Gym
+##### Lifting Belt
+##### Lifting Wraps
 
 ### Misc.
 
 ##### Hooli t-shirt
-[Hooli T-Shirt Link](https://www.redbubble.com/people/hoboballan/works/23150795-hooli?body_color=white&p=t-shirt&print_location=front&size=medium&style=mens&utm_source=google&utm_medium=cpc&utm_campaign=g.pla+notset&country_code=CA&gclid=Cj0KCQiAyszSBRDJARIsAHAqQ4pp15OM-OxnMm49N1Uu4ygTViIXI5YeCPFlJkIEejv3ot_2HsgtkioaAji_EALw_wcB)
+[Hooli T-Shirt (~$25)](https://www.redbubble.com/people/hoboballan/works/23150795-hooli?body_color=white&p=t-shirt&print_location=front&size=medium&style=mens&utm_source=google&utm_medium=cpc&utm_campaign=g.pla+notset&country_code=CA&gclid=Cj0KCQiAyszSBRDJARIsAHAqQ4pp15OM-OxnMm49N1Uu4ygTViIXI5YeCPFlJkIEejv3ot_2HsgtkioaAji_EALw_wcB)
 ![Hooli Shirt Image][hooli]
 
 
