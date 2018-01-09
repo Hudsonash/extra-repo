@@ -1,2 +1,2 @@
-# Extra Repo
-Random assortment of things I believe are better managed using version control
+# extra-repo
+All Misc. files that I feel version control is the ideal solution.
