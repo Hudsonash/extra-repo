@@ -3,6 +3,9 @@ I decided to use version control for this file.  This way I can see my tastes ch
 
 ### Clothes
 
+##### Hem Light Jeans
+Shorten the length of my lightened jeans and reduce the cut so it is not boot cut but instead tighter.
+
 ##### All-White Ultra-boosts
 Would be open to other colours as well, specifically all-black or the gold-ish one. Most comfortable shoe on the market. There are often many discounts and I would rather get a cheap version of the shoe that looks good enough than one for $250
 
