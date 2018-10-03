@@ -3,22 +3,29 @@ I decided to use version control for this file.  This way I can see my tastes ch
 
 ### Clothes
 
-##### Hem Light Jeans
-Shorten the length of my lightened jeans and reduce the cut so it is not boot cut but instead tighter.
+##### Naked and Famous Raw Denim Jeans
+
+Raw denim is the best form of denim. Will last forever and look better over time. I will choose a slimmer fit.
+
+[Natural Indigo Jeans (~$150)](https://www.nakedandfamousdenim.com/natural-indigo-selvedge)
+
+![N and F Raw Denim][rawdenim]
+
+##### Puma x Polaroid RS-0 Sneakers
+
+A cool collaboration with a white and black sneaker. Good addition to sneaker collection.
+
+[RS-0 Sneakers (~$140)](https://us.puma.com/en/us/pd/puma-x-polaroid-rs-0-sneakers/368436.html)
+
+![rs-0 sneakers][rs-0]
 
 ##### All-White Ultra-boosts
-Would be open to other colours as well, specifically all-black or the gold-ish one. Most comfortable shoe on the market. There are often many discounts and I would rather get a cheap version of the shoe that looks good enough than one for $250
+Would be open to other colours as well, specifically all-black or the gold-ish one. Most comfortable shoe on the market. There are often many discounts and I would rather get a cheap version of the shoe that looks good enough than one for $250. 4.0 Version
 
 [Adidas All-White Ultra-Boosts (~$250)](https://www.adidas.ca/en/mens-ultraboost-shoes/BB6168.html)
 
 ![ultraboosts][UBs]
 
-##### Clark's Desert Boots (beeswax colour)
-An incredibly versatile shoe to wear at work, casually, anywhere! Can be found in most locations, just ensure that it is the clark brand.
-
-[Clark's Desert Boot (~$150)](http://www.thebay.com/webapp/wcs/stores/servlet/en/thebay/leather-desert-boots-0018-desert-boot-leather--24?site_refer=CSE_GGLPLA&gclid=Cj0KCQiA-ebSBRC8ARIsAGuxJIpOwcgvqiKdS0mKOh4bkd5B7di2bWT1tk04LZVT7-Gn6pcb-COL4AMaArYoEALw_wcB&gclsrc=aw.ds)
-
-![CDB shoe shot][CDBs]
 
 ##### Quality Black Boots
 My current black boots are extremely cheap and hurt my feet when I walk. I could potentially buy insoles, but I believe that is a band-aid solution. Would need to go into store to try.
@@ -28,21 +35,21 @@ My current black boots are extremely cheap and hurt my feet when I walk. I could
 ![Redwing black boot][redwing]
 
 ### Kitchen
-Nothing at the moment due to being on co-op.
-
-
-### Gym
-Nothing at the moment as my lifts do not warrant a belt, straps, or lifting shoes just yet.
 
 ### Misc.
 
-##### Hooli t-shirt
-[Hooli T-Shirt (~$25)](https://www.redbubble.com/people/hoboballan/works/23150795-hooli?body_color=white&p=t-shirt&print_location=front&size=medium&style=mens&utm_source=google&utm_medium=cpc&utm_campaign=g.pla+notset&country_code=CA&gclid=Cj0KCQiAyszSBRDJARIsAHAqQ4pp15OM-OxnMm49N1Uu4ygTViIXI5YeCPFlJkIEejv3ot_2HsgtkioaAji_EALw_wcB)
-![Hooli Shirt Image][hooli]
+##### The Ordinary 5% Lactic Acid
 
+Mild Alpha Hydroxy Acid to help with skincare.
 
+[Lactic Acid for Face (~$7)](https://theordinary.com/product/rdn-lactic-acid-5pct-ha-2pct-30ml?redir=1)
+
+![TO Lactic Acid][TO LA]
 
 [hooli]: https://ih1.redbubble.net/image.257703065.0795/ra,unisex_tshirt,x2200,fafafa:ca443f4786,front-c,267,146,1000,1000-bg,f8f8f8.jpg
 [redwing]: https://tshop.r10s.jp/premiumone/cabinet/01786893/01805378/img61374933.jpg?fitin=330:330
 [CDBs]: http://s7d9.scene7.com/is/image/TheBay/889304578411_main?$PDPLARGE$&wid=388&hei=498&fit=fit,1
 [UBs]: https://www.adidas.ca/dis/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw73006a43/zoom/BB6168_01_standard.jpg?sw=840&sh=840&strip=false
+[rs-0]: https://pumaimages.azureedge.net/images/368436/01/fnd/PNA/h/600/w/600
+[TO LA]: https://theordinary.com/images/products/rdn-lactic-acid-5pct-ha-2pct-30ml.png?ver=15
+[rawdenim]: https://static.wixstatic.com/media/bc5a5a_f1e7bdff4a5e41838573f57348546c97~mv2_d_2048_2048_s_2.jpg/v1/fill/w_686,h_686,al_c,q_90,usm_1.20_1.00_0.01/bc5a5a_f1e7bdff4a5e41838573f57348546c97~mv2_d_2048_2048_s_2.webp
