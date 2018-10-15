@@ -34,6 +34,15 @@ My current black boots are extremely cheap and hurt my feet when I walk. I could
 
 ![Redwing black boot][redwing]
 
+### Books
+
+ I regularly do not buy books. I instead rent them from the library. However, some books are so good that I wish to support the author and have access to them at any time. Some books that I have read (partially or fully) but would like to keep are seen below.
+
+ ##### 12 Rules for Life: An Antidote to Chaos (_Jordan Peterson_)
+
+ [Amazon Link](https://www.amazon.ca/12-Rules-Life-Antidote-Chaos/dp/0345816021/ref=sr_1_1?ie=UTF8&qid=1539638264&sr=8-1&keywords=12+rules)
+
+
 ### Kitchen
 
 ### Misc.
