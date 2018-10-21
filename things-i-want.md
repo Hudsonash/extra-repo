@@ -3,6 +3,12 @@ I decided to use version control for this file.  This way I can see my tastes ch
 
 ### Clothes
 
+##### New Everyday Backpack
+
+Check out TimBuk2 for backpacks or thriftshops
+
+[TimBuk2 Backpacks (~$100)](https://www.timbuk2.com/collections/all-backpacks)
+
 ##### Naked and Famous Raw Denim Jeans
 
 Raw denim is the best form of denim. Will last forever and look better over time. I will choose a slimmer fit.
@@ -19,7 +25,7 @@ A cool collaboration with a white and black sneaker. Good addition to sneaker co
 
 ![rs-0 sneakers][rs-0]
 
-##### All-White Ultra-boosts
+##### Ultra-boosts
 Would be open to other colours as well, specifically all-black or the gold-ish one. Most comfortable shoe on the market. There are often many discounts and I would rather get a cheap version of the shoe that looks good enough than one for $250. 4.0 Version
 
 [Adidas All-White Ultra-Boosts (~$250)](https://www.adidas.ca/en/mens-ultraboost-shoes/BB6168.html)
@@ -33,6 +39,7 @@ My current black boots are extremely cheap and hurt my feet when I walk. I could
 [Redwing 8165 (~$275)](https://www.infinityshoes.com/red-wing-shoes-classic-round-8165-mens-boot.html)
 
 ![Redwing black boot][redwing]
+
 
 ### Books
 
