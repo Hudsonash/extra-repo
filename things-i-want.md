@@ -80,7 +80,12 @@ I dropped my phone and broke it. I would like to make sure it does not break any
 
 ![sample case](https://images-na.ssl-images-amazon.com/images/I/61Dp%2BuNqLNL._SL1000_.jpg)
 
+### Hair Ties
+As my hair gets longer, I need to be able to get it out of my face.
 
+[Amazon hair ties (~$10)](https://www.amazon.ca/Seamless-Ponytail-Scrunchie-Accessories-Stretching/dp/B078K6888P/ref=sr_1_2?ie=UTF8&qid=1541890799&sr=8-2&keywords=hair+ties+men&dpID=51KOhMR1OWL&preST=_SY300_QL70_&dpSrc=srch)
+
+![hair ties](https://images-na.ssl-images-amazon.com/images/I/61UhkhcUxDL._SL1000_.jpg)
 
 ### The Ordinary 5% Lactic Acid
 
@@ -96,3 +101,15 @@ Mild Alpha Hydroxy Acid to help with skincare.
 [rs-0]: https://pumaimages.azureedge.net/images/368436/01/fnd/PNA/h/600/w/600
 [TO LA]: https://theordinary.com/images/products/rdn-lactic-acid-5pct-ha-2pct-30ml.png?ver=15
 [rawdenim]: https://static.wixstatic.com/media/bc5a5a_f1e7bdff4a5e41838573f57348546c97~mv2_d_2048_2048_s_2.jpg/v1/fill/w_686,h_686,al_c,q_90,usm_1.20_1.00_0.01/bc5a5a_f1e7bdff4a5e41838573f57348546c97~mv2_d_2048_2048_s_2.webp
+
+
+### General Categories of Interest
+
+1. Shaving: saving soap, straight razor, safety blades
+2. Hockey: Sens gear
+3. Basketball: Raptors gear
+4. Coffee: coffee-making machines (high quality), beans, syrups
+5. Tea: different types of tea
+6. Books: Financial independence, neuroscience of learning, blockchain, fun fiction, meditation
+7. Fashion: sneakers, sweaters, jackets
+8. Investments: Cryptocurrency
