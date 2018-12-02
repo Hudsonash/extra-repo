@@ -1,16 +1,6 @@
 # What I Want
 I decided to use version control for this file.  This way I can see my tastes change over time and allows me to easily update the actual files.
 
-## Electronics
-
-### Basic Wireless Headphones
-
-I enjoy walking around. A combination of toques and broken headphone jacks lead to a need for wireless in-ear headphones.
-
-[Shure's Wireless Headphones (~$120)](https://www.amazon.com/Shure-SE215-CL-BT1-Wireless-Isolating-Earphones/dp/B074QJQ3W7?psc=1&SubscriptionId=AKIAJV4KMHBMUG36SMIQ&tag=pcm_rounduptable-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B074QJQ3W7&ascsubtag=c19b46e5-ba5f-42f8-bb7f-7e72e0d17432)
-
-![Shure](https://images-na.ssl-images-amazon.com/images/I/61NgdkMucFL._SL1500_.jpg)
-
 ## Clothes
 
 **Sizes**:
@@ -35,12 +25,6 @@ A cool collaboration with a white and black sneaker. Good addition to sneaker co
 
 [RS-0 Sneakers (~$140)](https://us.puma.com/en/us/pd/puma-x-polaroid-rs-0-sneakers/368436.html)
 ![rs-0 sneakers][rs-0]
-
-### Ultra-boosts
-Would be open to other colours as well, specifically all-black or the gold-ish one. Most comfortable shoe on the market. There are often many discounts and I would rather get a cheap version of the shoe that looks good enough than one for $250. 4.0 Version
-
-[Adidas All-White Ultra-Boosts (~$250)](https://www.adidas.ca/en/mens-ultraboost-shoes/BB6168.html)
-![ultraboosts][UBs]
 
 ### Quality Black Boots
 My current black boots are extremely cheap and hurt my feet when I walk. I could potentially buy insoles, but I believe that is a band-aid solution. Would need to go into store to try.
@@ -71,14 +55,15 @@ A book about how to learn. Very helpful.
 
  ![Mind for numbers](https://images-na.ssl-images-amazon.com/images/I/41jOvUQ%2BdhL.jpg)
 
+
+### The Mind Illuminated
+A book at the intersection of meditation and neuroscience.
+
+[Amazon link to The Mind Illuminated](https://www.amazon.ca/Mind-Illuminated-Meditation-Integrating-Mindfulness/dp/1501156985)
+
+![TML](https://images-na.ssl-images-amazon.com/images/I/51HJ2bi6JRL._SX403_BO1,204,203,200_.jpg)
+
 ## Misc.
-
-### Case for Samsung S8
-I dropped my phone and broke it. I would like to make sure it does not break anymore. Go for lower price, high protection than style
-
-[Sample case (~$15)}](https://www.amazon.ca/Spigen-Rugged-Resilient-Absorption-Samsung/dp/B06XNNJ4KM/ref=sr_1_6?ie=UTF8&qid=1541885801&sr=8-6&keywords=s8+cases&dpID=51D0T%252BnpnzL&preST=_SY300_QL70_&dpSrc=srch)
-
-![sample case](https://images-na.ssl-images-amazon.com/images/I/61Dp%2BuNqLNL._SL1000_.jpg)
 
 ### Hair Ties
 As my hair gets longer, I need to be able to get it out of my face.
@@ -86,21 +71,6 @@ As my hair gets longer, I need to be able to get it out of my face.
 [Amazon hair ties (~$10)](https://www.amazon.ca/Seamless-Ponytail-Scrunchie-Accessories-Stretching/dp/B078K6888P/ref=sr_1_2?ie=UTF8&qid=1541890799&sr=8-2&keywords=hair+ties+men&dpID=51KOhMR1OWL&preST=_SY300_QL70_&dpSrc=srch)
 
 ![hair ties](https://images-na.ssl-images-amazon.com/images/I/61UhkhcUxDL._SL1000_.jpg)
-
-### The Ordinary 5% Lactic Acid
-
-Mild Alpha Hydroxy Acid to help with skincare.
-
-[Lactic Acid for Face (~$7)](https://theordinary.com/product/rdn-lactic-acid-5pct-ha-2pct-30ml?redir=1)
-
-![TO Lactic Acid][TO LA]
-
-[redwing]: https://tshop.r10s.jp/premiumone/cabinet/01786893/01805378/img61374933.jpg?fitin=330:330
-[CDBs]: http://s7d9.scene7.com/is/image/TheBay/889304578411_main?$PDPLARGE$&wid=388&hei=498&fit=fit,1
-[UBs]: https://www.adidas.ca/dis/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw73006a43/zoom/BB6168_01_standard.jpg?sw=840&sh=840&strip=false
-[rs-0]: https://pumaimages.azureedge.net/images/368436/01/fnd/PNA/h/600/w/600
-[TO LA]: https://theordinary.com/images/products/rdn-lactic-acid-5pct-ha-2pct-30ml.png?ver=15
-[rawdenim]: https://static.wixstatic.com/media/bc5a5a_f1e7bdff4a5e41838573f57348546c97~mv2_d_2048_2048_s_2.jpg/v1/fill/w_686,h_686,al_c,q_90,usm_1.20_1.00_0.01/bc5a5a_f1e7bdff4a5e41838573f57348546c97~mv2_d_2048_2048_s_2.webp
 
 
 ### General Categories of Interest
@@ -113,3 +83,15 @@ Mild Alpha Hydroxy Acid to help with skincare.
 6. Books: Financial independence, neuroscience of learning, blockchain, fun fiction, meditation
 7. Fashion: sneakers, sweaters, jackets
 8. Investments: Cryptocurrency
+
+
+
+
+[redwing]: https://tshop.r10s.jp/premiumone/cabinet/01786893/01805378/img61374933.jpg?fitin=330:330
+[CDBs]: http://s7d9.scene7.com/is/image/TheBay/889304578411_main?$PDPLARGE$&wid=388&hei=498&fit=fit,1
+[UBs]: https://www.adidas.ca/dis/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw73006a43/zoom/BB6168_01_standard.jpg?sw=840&sh=840&strip=false
+[rs-0]: https://pumaimages.azureedge.net/images/368436/01/fnd/PNA/h/600/w/600
+[TO LA]: https://theordinary.com/images/products/rdn-lactic-acid-5pct-ha-2pct-30ml.png?ver=15
+[rawdenim]: https://static.wixstatic.com/media/bc5a5a_f1e7bdff4a5e41838573f57348546c97~mv2_d_2048_2048_s_2.jpg/v1/fill/w_686,h_686,al_c,q_90,usm_1.20_1.00_0.01/bc5a5a_f1e7bdff4a5e41838573f57348546c97~mv2_d_2048_2048_s_2.webp
+
+
