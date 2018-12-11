@@ -9,11 +9,6 @@ Shoes: 9.5 or 10
 Waist: 32 inches  
 Shirts, Sweaters, etc.: Medium
 
-### New Everyday Backpack
-Check out TimBuk2 for backpacks or thrift shops.
-
-[TimBuk2 Backpacks (~$100)](https://www.timbuk2.com/collections/all-backpacks)
-
 ### Naked and Famous Raw Denim Jeans
 Raw denim is the best form of denim. Will last forever and look better over time. I will choose a slimmer fit.
 
@@ -26,11 +21,11 @@ A cool collaboration with a white and black sneaker. Good addition to sneaker co
 [RS-0 Sneakers (~$140)](https://us.puma.com/en/us/pd/puma-x-polaroid-rs-0-sneakers/368436.html)
 ![rs-0 sneakers][rs-0]
 
-### Quality Black Boots
-My current black boots are extremely cheap and hurt my feet when I walk. I could potentially buy insoles, but I believe that is a band-aid solution. Would need to go into store to try.
+### Nike x Acronym Presto Mid
+Great waterproof, comfortable, trekking shoes. I like the black and grey colourway but am open to the pink one as well.
 
-[Redwing 8165 (~$275)](https://www.infinityshoes.com/red-wing-shoes-classic-round-8165-mens-boot.html)
-![Redwing black boot][redwing]
+[Cool Grey (~$200)](https://www.goat.com/sneakers/acronym-x-air-presto-mid-cool-grey-ah7832-001)
+![Acronym](https://image.goat.com/crop/750/attachments/product_template_additional_pictures/images/014/502/942/original/436992_01.jpg.jpeg)
 
 ### Jordan 1 Court Purple
 Great all-around shoe for the collection
@@ -47,31 +42,12 @@ Sleek new raptors jersey.
 ## Books
 I regularly do not buy books. I instead rent them from the library. However, some books are so good that I wish to support the author and have access to them at any time. Some books that I have read (partially or fully) but would like to keep are seen below.
 
-### A Mind For Numbers: Barbra Oakley
-
-A book about how to learn. Very helpful.
-
- [A mind for numbers (~$18)](https://www.amazon.ca/Mind-Numbers-Science-Flunked-Algebra-ebook/dp/B00G3L19ZU)
-
- ![Mind for numbers](https://images-na.ssl-images-amazon.com/images/I/41jOvUQ%2BdhL.jpg)
-
-
 ### The Mind Illuminated
 A book at the intersection of meditation and neuroscience.
 
 [Amazon link to The Mind Illuminated](https://www.amazon.ca/Mind-Illuminated-Meditation-Integrating-Mindfulness/dp/1501156985)
 
 ![TML](https://images-na.ssl-images-amazon.com/images/I/51HJ2bi6JRL._SX403_BO1,204,203,200_.jpg)
-
-## Misc.
-
-### Hair Ties
-As my hair gets longer, I need to be able to get it out of my face.
-
-[Amazon hair ties (~$10)](https://www.amazon.ca/Seamless-Ponytail-Scrunchie-Accessories-Stretching/dp/B078K6888P/ref=sr_1_2?ie=UTF8&qid=1541890799&sr=8-2&keywords=hair+ties+men&dpID=51KOhMR1OWL&preST=_SY300_QL70_&dpSrc=srch)
-
-![hair ties](https://images-na.ssl-images-amazon.com/images/I/61UhkhcUxDL._SL1000_.jpg)
-
 
 ### General Categories of Interest
 
@@ -93,5 +69,3 @@ As my hair gets longer, I need to be able to get it out of my face.
 [rs-0]: https://pumaimages.azureedge.net/images/368436/01/fnd/PNA/h/600/w/600
 [TO LA]: https://theordinary.com/images/products/rdn-lactic-acid-5pct-ha-2pct-30ml.png?ver=15
 [rawdenim]: https://static.wixstatic.com/media/bc5a5a_f1e7bdff4a5e41838573f57348546c97~mv2_d_2048_2048_s_2.jpg/v1/fill/w_686,h_686,al_c,q_90,usm_1.20_1.00_0.01/bc5a5a_f1e7bdff4a5e41838573f57348546c97~mv2_d_2048_2048_s_2.webp
-
-
