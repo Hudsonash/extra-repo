@@ -1,0 +1,29 @@
+---
+title: "R4DS Answers to Useful Ones"
+author: "Hudson Ash"
+date: '2018-07-01'
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Setup
+
+```{r, echo=FALSE}
+library(tidyverse)
+```
+
+### Exercises 3.2.4
+5. What happens if a scatterplot is made of `class` vs `drv`? Why is the plot not useful?
+
+Before the plot is made, we see that drv is a catergorial variable with three categories while class is another categorial variable. A scatterplot does not show 2 categorial variables well.
+
+```{r}
+ggplot(data=mpg) + geom_point(mapping=aes(x=class, y=drv))
+```
+
+### 3.3.1
+
+3. Map a continuous variable to `color`, `size`, and `shape`. How do these aesthetics behave differently for categorical vs. continuous variables?
