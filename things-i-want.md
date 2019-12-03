@@ -42,11 +42,6 @@ Grey or Pink model.
 
 ![Ultralearning cover](https://images-na.ssl-images-amazon.com/images/I/51PfH156fIL._SX329_BO1,204,203,200_.jpg)
 
-### Keeping House
-[Link ~$20](https://www.amazon.ca/Keeping-House-Creating-Sanctuary-Celebration/dp/174379486X)
-
-![keeping cover](https://images-na.ssl-images-amazon.com/images/I/41YYNiUYdmL._SX342_BO1,204,203,200_.jpg)
-
 ## Gaming 
 
 ### Nintendo Switch
