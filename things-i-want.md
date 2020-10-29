@@ -23,9 +23,14 @@ New white one looks awesome. Siakam, Powell, Lowry, Ibaka, Anunoby are all nice 
 
 ## Books
 ### Sandworm
-[Amazon link (~$25.00)](https://www.amazon.com/Sandworm-Cyberwar-Kremlins-Dangerous-Hackers/dp/0385544405)
+[Amazon link (~$25)](https://www.amazon.com/Sandworm-Cyberwar-Kremlins-Dangerous-Hackers/dp/0385544405)
 
 ![Sandworm cover](https://images-na.ssl-images-amazon.com/images/I/613VM4hOVNL._SX329_BO1,204,203,200_.jpg)
+
+### Countdown to zero day
+[Amazon link (~$13)](https://www.amazon.com/gp/product/0770436196/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0770436196&linkCode=as2&tag=tunn01-20&linkId=357dccda7a59b3c53ead5269fd674db8)
+
+![zero day](https://images-na.ssl-images-amazon.com/images/I/61GIwqRSUHL._SX322_BO1,204,203,200_.jpg)
 
 ## Tech
 ### Hardware Wallet
