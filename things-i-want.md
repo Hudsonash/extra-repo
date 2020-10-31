@@ -38,7 +38,10 @@ Either the Nano S or the Nano X work.
 [Ledger's site ($89 or $159}](https://shop.ledger.com/?r=7d474bfdcfa2)
 ![Ledger wallet](https://cdn.shopify.com/s/files/1/2974/4858/files/mobile-lnx-dashboard_775x.png?v=1565787049)
 
-
+### Sunrise alarm clock
+Any brand seems to work here.
+[LBell (~$55)](https://www.amazon.ca/LBell-Colored-Simulation-Bedrooms-LB01-Sunrise/dp/B07L87MH64/ref=sr_1_15?dchild=1&keywords=Philips+Wake-up+Light&qid=1604102366&sr=8-15)
+![sunrise alarm](https://images-na.ssl-images-amazon.com/images/I/61mNvxmaTGL._AC_SL1500_.jpg)
 
 ## Gaming 
 ### PS5
