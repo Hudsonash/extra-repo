@@ -1,0 +1,164 @@
+{
+  "selectedTemplate": 2,
+  "headings": {
+    "work": "Work",
+    "skills": "Skills",
+    "awards": "Extras!",
+    "education": "Education",
+    "projects": "Projects"
+  },
+  "basics": {
+    "name": "Hudson Ash",
+    "email": "hudsonashe@gmail.com",
+    "location": {
+      "address": "Toronto"
+    }
+  },
+  "education": [
+    {
+      "location": "Waterloo, ON",
+      "studyType": "Bachelors with specialization in Statistics",
+      "startDate": "Sept 2014",
+      "endDate": "Dec 2019",
+      "institution": "University of Waterloo - Math"
+    },
+    {
+      "institution": "Wilfrid Laurier University - Business",
+      "location": "Waterloo, ON",
+      "studyType": "BBA with specialization in Marketing",
+      "startDate": "Sept 2014",
+      "endDate": "Dec 2019"
+    }
+  ],
+  "work": [
+    {
+      "company": "Clearbanc",
+      "location": "Toronto, ON",
+      "position": "First Full-Stack Engineer, Now Infrastructure Engineer",
+      "website": "",
+      "startDate": "Feb 2020",
+      "endDate": "Present",
+      "highlights": [
+        "Built a tagging framework for internal sales reps using Vue, Typescript, and PostgreSQL",
+        "Developed \"insights\" page & microservice for all businesses to view aggregated metrics",
+        "Infrastructure-related jobs: Migrating projects from App Engine to Kubernetes, Improving Jenkins pipelines"
+      ]
+    },
+    {
+      "highlights": [
+        "Synchronized Google Groups with LDAP for remote access control using Goland, Terraform, and LDAP",
+        "Researched artificial intelligence capabilities of competing companies for finding product market fit",
+        "Taught a reinforcement learning lecture with the head of machine learning"
+      ],
+      "company": "integrate.ai",
+      "position": "Software Engineering Intern",
+      "location": "Toronto, ON",
+      "startDate": "May",
+      "endDate": "Aug 2019"
+    },
+    {
+      "highlights": [
+        "Developed a general drift monitoring application to be used on any model in Capital One using Flask (Python)",
+        "Constructed a model to predict SQL table updates and alert subscribers if the table wasn't updated as expected using Python"
+      ],
+      "company": "Capital One",
+      "position": "Data Science Intern",
+      "location": "Toronto, ON",
+      "startDate": "Jan",
+      "endDate": "Apr 2018"
+    },
+    {
+      "highlights": [
+        "Built Qlik dashboards for performance evaluation of 4,000 employees. Increased read time using caching by 40x using Python!",
+        "Mantained Qlik dashboard for client's financial department containing over 20 data sources"
+      ],
+      "company": "PwC",
+      "position": "Data Science Consultant",
+      "location": "Toronto, ON",
+      "startDate": "Jan",
+      "endDate": "Apr 2017"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": [
+        "Python ",
+        "Typescript (+ Javascript)",
+        "SQL ",
+        "Go ",
+        "R"
+      ]
+    },
+    {
+      "keywords": [
+        "Kubernetes",
+        "General AWS & GCP",
+        "Microservices",
+        "Git",
+        "Vue",
+        "*nix"
+      ],
+      "name": "Programming Skills"
+    },
+    {
+      "keywords": [
+        "Presentations",
+        "Business plans",
+        "Communicating between business & tech sides"
+      ],
+      "name": "Business Skills"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Canadian Trademark Competitive Intelligence",
+      "keywords": [
+        "Python",
+        "Qlik"
+      ],
+      "description": "Created a database of all filed Canadian trademarks from XML and created dashboards with broad and granular metrics. Sold project to Gowling WLG"
+    },
+    {
+      "keywords": [
+        "Python",
+        ""
+      ],
+      "name": "Sonos Timer",
+      "url": "github.com/hudsonash",
+      "description": "Developed a script using Sonos API to queue up a set playlist and play after N minutes"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Marketing Plan Pitch Winner",
+      "date": "Dec 2018",
+      "summary": "Marketing campaign pitch to an accounting firm in London, ON"
+    },
+    {
+      "title": "Head Orientation Leader",
+      "date": "Sept 2018",
+      "summary": "Lead my sub-section of orientation leaders and frosh"
+    },
+    {
+      "title": "DataFest Winner",
+      "date": "May 2017",
+      "summary": "Won an expedia hackathon and some prize money"
+    },
+    {
+      "summary": "hockey, cybersecurity, cryptocurrency, basketball, meditation, fitness",
+      "date": "Interests",
+      "title": "This job"
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "work",
+    "education",
+    "projects",
+    "skills",
+    "awards"
+  ]
+}
