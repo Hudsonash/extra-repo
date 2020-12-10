@@ -14,8 +14,13 @@ Grey or Pink model.
 [Cool Grey (~$200)](https://www.goat.com/sneakers/acronym-x-air-presto-mid-cool-grey-ah7832-001)
 ![Acronym](https://image.goat.com/crop/750/attachments/product_template_additional_pictures/images/014/502/942/original/436992_01.jpg.jpeg)
 
+### Tentree Apparel 
+I like the general catalog. A great gift is the mystery box.
+[Men's mystery bag (~135)](https://www.tentree.ca/products/mens-mystery-bag)
+![tentree bag](https://cdn.shopify.com/s/files/1/2404/6643/products/SP20_MysteryBags_MensWebRes3_703x893.progressive.jpg?v=1582315193)
+
 ### Raps jersey
-New white one looks awesome. Siakam, Powell, Lowry, Ibaka, Anunoby are all nice choices.
+New white one looks awesome. Siakam, Powell, Lowry, Anunoby are all nice choices.
 
 [The jersey (~$70)](https://store.nba.com/toronto-raptors/mens-toronto-raptors-pascal-siakam-fanatics-branded-white-2020/21-fast-break-replica-player-jersey-association-edition/t-25141995+p-3697920057540+z-9-2178066224?_ref=p-GALP:m-GRID:i-r11c1:po-34)
 
@@ -43,19 +48,13 @@ Any brand seems to work here.
 [LBell (~$55)](https://www.amazon.ca/LBell-Colored-Simulation-Bedrooms-LB01-Sunrise/dp/B07L87MH64/ref=sr_1_15?dchild=1&keywords=Philips+Wake-up+Light&qid=1604102366&sr=8-15)
 ![sunrise alarm](https://images-na.ssl-images-amazon.com/images/I/61mNvxmaTGL._AC_SL1500_.jpg)
 
-## Gaming 
-### PS5
-I'm looking for the digital version, I don't need discs.
-[Best Buy ($499)](https://www.bestbuy.ca/en-ca/category/playstation-5/17582853)
-![ps5](https://gmedia.playstation.com/is/image/SIEPDC/ps5-family-image-block-01-en-16sep20?$1600px--t$)
+## Gaming
 
 Game list:
-* Cyberpunk 2077
-* Newest Call of Duty
-* Spider Man: Miles Morales
-* Hyrule Warriors: Age of Calamity [link](https://www.nintendo.com/games/detail/hyrule-warriors-age-of-calamity-switch/)
+* Call of Duty: Cold War
+* Extra xbox series X controller
 * Cuphead
-* Super mario 3D all-stars
+* Super mario 3D all-stars (Switch)
 
 ## Misc
 
